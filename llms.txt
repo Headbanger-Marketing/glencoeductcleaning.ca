@@ -1,2 +1,25 @@
 # Glencoe Duct Cleaning
-HVAC services in Ontario.
+
+> Glencoe Duct Cleaning is a local HVAC company serving Glencoe, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 761-2123  |  Email: contact@glencoeductcleaning.ca  |  Website: https://glencoeductcleaning.ca
+
+## Key pages
+
+- [Home](https://glencoeductcleaning.ca/): Glencoe Duct Cleaning homepage with service overview and FAQ
+- [About](https://glencoeductcleaning.ca/about/): About the company and service area
+- [Contact](https://glencoeductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://glencoeductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Glencoe, Ontario
+- [Dryer Vent Cleaning](https://glencoeductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Glencoe, Ontario
+- [Furnace & AC Cleaning](https://glencoeductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Glencoe, Ontario
+- [HRV & Ventilation Cleaning](https://glencoeductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Glencoe, Ontario
+- [Duct Sanitizing & Deodorizing](https://glencoeductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Glencoe, Ontario
+- [Duct Sealing & Repair](https://glencoeductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Glencoe, Ontario
+- [Commercial Duct Cleaning](https://glencoeductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Glencoe, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Glencoe are answered on the homepage.
